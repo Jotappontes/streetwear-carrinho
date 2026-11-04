@@ -15,13 +15,5 @@ Este projeto consiste na implementação da lógica de um carrinho de compras pa
 - **Linguagem:** JavaScript (ES6+) / TypeScript
 - **Conceitos aplicados:** Orientação a Objetos (Classes), Métodos de Array (`find`, `reduce`, `forEach`), Condicionais e Manipulação de Objetos.
 
-## 💻 Como Executar o Projeto
 
-1. Copia o código presente no ficheiro `index.js`.
-2. Cola num ambiente de execução JavaScript/TypeScript, como:
-   - [Coddy Tech Playground](https://coddy.tech/playground/pt/javascript)
-   - Node.js (via terminal: `node index.js`)
-   - Console do navegador (F12)
-
----
 Desenvolvido por **Jotappontes** 🚀
